@@ -30,7 +30,7 @@ OR use conda-
 # dataset descriptions
 * **[QAMEBI: Breast Ultrasound Images Database](https://qamebi.com/breast-ultrasound-images-database/?fbclid=IwAR1Gu995G1JZQRa59fzTC2dRkfNSXMbpuTFRhXoIdnLFpZwLNWmP8MngQYg)**
 
-
+---
 
 
 <!-- create a dataset as follows:
@@ -83,53 +83,3 @@ dataset_folder
 - use **debug.ipynb** for visualization -->
 
 ---
-## ABOUT
-### Refereneces:
-
-**Cite:** Please cite the following papers. If you find this code useful in your research, please consider citing.
-
-```bibtext
-@article{haque2021novel,
-  title={A novel technique for non-invasive measurement of human blood component levels from fingertip video using DNN based models},
-  author={Haque, Md Rezwanul and Raju, SM Taslim Uddin and Golap, Md Asaf-Uddowla and Hashem, MMA},
-  journal={IEEE Access},
-  volume={9},
-  pages={19025--19042},
-  year={2021},
-  publisher={IEEE}
-}
-```
-
-```bibtext
-@article{haque2021corrections,
-  title={Corrections to" A Novel Technique for Non-Invasive Measurement of Human Blood Component Levels From Fingertip Video Using DNN Based Models".},
-  author={Haque, MD Rezwanul and Raju, SM Taslim Uddin and Golap, MD Asaf-Uddowla and Hashem, MMA},
-  journal={IEEE Access},
-  volume={9},
-  pages={84178--84179},
-  year={2021}
-}
-```
-
-```bibtext
-@article{golap2021hemoglobin,
-  title={Hemoglobin and glucose level estimation from PPG characteristics features of fingertip video using MGGP-based model},
-  author={Golap, Md Asaf-uddowla and Raju, SM Taslim Uddin and Haque, Md Rezwanul and Hashem, MMA},
-  journal={Biomedical Signal Processing and Control},
-  volume={67},
-  pages={102478},
-  year={2021},
-  publisher={Elsevier}
-}
-```
-
-```bibtext
-@inproceedings{golap2019non,
-  title={Non-invasive hemoglobin concentration measurement using MGGP-based model},
-  author={Golap, Md Asaf-uddowla and Hashem, MMA},
-  booktitle={2019 5th International Conference on Advances in Electrical Engineering (ICAEE)},
-  pages={1--6},
-  year={2019},
-  organization={IEEE}
-}
-``` -->
