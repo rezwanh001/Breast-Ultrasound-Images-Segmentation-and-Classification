@@ -1,0 +1,5 @@
+pydot
+pydotplus
+graphviz
+opencv-python
+tensorflow
